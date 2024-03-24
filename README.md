@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi, I’m @FredSabu
+👋 Hi, I’m Fred
 ---------------------
 
 - 🎓 Studying Artificial Intelligence and Data Science.
