@@ -4,16 +4,10 @@
 ---------------------
 
 - 🎓 Studying Artificial Intelligence and Data Science.
-- 🌱 I’m currently learning about Natural Language Processing and Sentiment Analysis.
-- 💼 Passionate about using data-driven insights to solve complex business problems.
-- 🧠 Fun fact: My Bachelor's Degree was in Neuroscience
 
-## Let's Connect and Collaborate!
+## Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/fred-sabu/)
 
----
-
-More projects to come, keep an eye out 👀
 
 
 <!---
